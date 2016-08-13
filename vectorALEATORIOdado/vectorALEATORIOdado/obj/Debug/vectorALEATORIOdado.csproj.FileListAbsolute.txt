@@ -1,0 +1,8 @@
+c:\users\acer\documents\visual studio 2012\Projects\vectorALEATORIOdado\vectorALEATORIOdado\bin\Debug\vectorALEATORIOdado.exe.config
+c:\users\acer\documents\visual studio 2012\Projects\vectorALEATORIOdado\vectorALEATORIOdado\bin\Debug\vectorALEATORIOdado.exe
+c:\users\acer\documents\visual studio 2012\Projects\vectorALEATORIOdado\vectorALEATORIOdado\bin\Debug\vectorALEATORIOdado.pdb
+c:\users\acer\documents\visual studio 2012\Projects\vectorALEATORIOdado\vectorALEATORIOdado\obj\Debug\vectorALEATORIOdado.exe
+c:\users\acer\documents\visual studio 2012\Projects\vectorALEATORIOdado\vectorALEATORIOdado\obj\Debug\vectorALEATORIOdado.pdb
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\... TRABAJOS EN LA CLASE\vectorALEATORIOdado\vectorALEATORIOdado\bin\Debug\vectorALEATORIOdado.exe.config
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\... TRABAJOS EN LA CLASE\vectorALEATORIOdado\vectorALEATORIOdado\obj\Debug\vectorALEATORIOdado.exe
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\... TRABAJOS EN LA CLASE\vectorALEATORIOdado\vectorALEATORIOdado\obj\Debug\vectorALEATORIOdado.pdb
